@@ -10,10 +10,8 @@ This is where I keep small experiments, random builds, and things I'm learning a
 
 ## 🛠️ Tools & Stuff I Use
 
-- Python,SQL,Bash
-
--Windows Server, AD. Vmare,Azure
-
+- **Languages:** Python, SQL, Bash
+- **Software:** Windows Server, AD, VMware, Azure
 - A lot of trial, error, and retry
 
 ---
