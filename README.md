@@ -1,16 +1,14 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**salvdevlops/salvdevlops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jeremiah.
 
-Here are some ideas to get you started:
+I like building things just to see how they fall apart, then rebuilding them so they don’t.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+That curiosity started with computers and turned into a habit of asking “how does this actually work?” a little too often.
+
+Right now, I’m exploring how software, systems, and data connect under the hood. I spend most of my time learning by doing, messing with ideas until they actually make sense.
+
+Fun facts:
+Coffee basically runs the system
+Favorite anime: Samurai Champloo
+I enjoy anime, space, and tinkering with anything until it finally clicks.
