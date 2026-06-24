@@ -4,13 +4,14 @@ I'm Jeremiah.
 
 I like figuring out how things work — usually by breaking them first.
 
-This is where I keep small experiments, random builds, and things I'm learning as I go. Nothing fancy — just progress over time.
+A place for labs, experiments, and stray ideas I pick up while building.  
+Think of it as a version history of understanding.
 
 ---
 
 ## 🛠️ Tools & Stuff I Use
 
-- **Languages:** Python, SQL, Bash
+- **Languages:** Python, SQL, Bash ( more to come)
 - **Software:** Windows Server, AD, VMware, Azure
 
 
