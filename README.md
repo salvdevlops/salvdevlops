@@ -19,7 +19,7 @@ Think of it as a version history of understanding.
 
 ## 🙂 About Me
 
-- 🌌 I enjoy anime, space, and tinkering with things until they finally make sense
+- 🌌 I enjoy anime, space, nature, and pretty much anything tech related 
 - ☕ Coffee is life
 - 🎬 Favorite anime: *Samurai Champloo*
 - 🔁 I learn best by correcting mistakes
