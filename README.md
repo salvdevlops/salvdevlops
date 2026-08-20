@@ -11,7 +11,7 @@ Think of it as a version history of understanding.
 
 ## 🛠️ Tools & Stuff I Use
 
-- **Languages:** Python, SQL, Bash ( more to come)
+- **Languages:** Python, SQL, Linux ( more to come)
 - **Software:** Windows Server, AD, VMware, Azure
 
 
